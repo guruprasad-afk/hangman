@@ -84,7 +84,7 @@ const ENGLISH_WORDS = [
     hints: [
       'having a sullen and gloomy disposition',
       'SULLEN, GLUM, ____, SURLY, SULKY, CRABBED, SATURNINE, GLOOMY mean showing a forbidding or disagreeable mood.',
-      'MOROSE adds to GLUM an element of bitterness or misanthropy.'
+      '____ adds to GLUM an element of bitterness or misanthropy.'
     ]
   },
   {
